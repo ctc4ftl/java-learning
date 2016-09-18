@@ -15,15 +15,19 @@ public class MySingleton {
 		return __me;
 	}
 
-	public static void main(String[] args) {
-		
-		
-		
-	}
-	
+	// add additional functionality
+	// public someMethod() {}		
 }
 
 /*
- * this is how to ask for the singleton in another class
+ * using a singleton in java
+ * 
+ * ask for the singleton
  * MySinglton single = MySingleton.getInstance();
+ * 
+ * use it
+ * single.someMethod();
+ * 
+ * or even just call directly
+ * MySingleton.getInstance().someMethod();
  */
