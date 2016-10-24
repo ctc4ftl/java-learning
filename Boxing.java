@@ -1,5 +1,5 @@
 public class Boxing {
-	//Show Git for Banner changed on Git Hub
+	//Show Git for interview
 	public static void main(String[] args) {
 		
 		int round = 6;
